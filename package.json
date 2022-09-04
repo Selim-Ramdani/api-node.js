@@ -13,8 +13,7 @@
   "dependencies": {
     "concurrently": "^5.0.0",
     "http-server": "^0.11.1",
-    "live-server": "^1.2.1",
-    "run-script-os": "^1.0.7"
+    "live-server": "^1.2.1"
   },
   "repository": {
     "type": "git",
@@ -23,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Selim-Ramdani/api-node.js/issues"
   },
-  "homepage": "https://github.com/Selim-Ramdani/api-node.js#readme"
+  "homepage": "https://github.com/Selim-Ramdani/api-node.js#readme",
+  "devDependencies": {
+    "run-script-os": "^1.1.6"
+  }
 }
